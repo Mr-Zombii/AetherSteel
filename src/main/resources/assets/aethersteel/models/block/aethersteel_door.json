@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "minecraft_background_music_disc:blocks/aethersteel_block",
+    "top": "minecraft_background_music_disc:blocks/aethersteel_block",
+    "side": "minecraft_background_music_disc:blocks/aethersteel_block"
+  },
+  "render_type": "solid"
+}

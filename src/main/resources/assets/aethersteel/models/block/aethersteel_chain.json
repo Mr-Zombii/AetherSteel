@@ -1,0 +1,8 @@
+{
+  "parent": "aethersteel:custom/aethersteel_chain",
+  "textures": {
+    "all": "aethersteel:blocks/aethersteel_chain",
+    "particle": "aethersteel:blocks/aethersteel_chain"
+  },
+  "render_type": "cutout"
+}

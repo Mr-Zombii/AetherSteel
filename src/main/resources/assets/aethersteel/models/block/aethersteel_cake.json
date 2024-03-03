@@ -1,0 +1,13 @@
+{
+  "parent": "aethersteel:custom/aethersteel_cake",
+  "textures": {
+    "all": "aethersteel:blocks/aethersteel_cake_top",
+    "particle": "aethersteel:blocks/aethersteel_cake_top",
+    "side": "aethersteel:blocks/aethersteel_cake_side",
+    "top": "aethersteel:blocks/aethersteel_cake_top",
+    "bottom": "aethersteel:blocks/aethersteel_cake_bottom",
+    "candle": "aethersteel:blocks/purple_candle_lit",
+    "flame": "aethersteel:blocks/flame"
+  },
+  "render_type": "cutout_mipped"
+}

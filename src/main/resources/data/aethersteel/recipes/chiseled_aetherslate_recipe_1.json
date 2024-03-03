@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "aethersteel:cobbled_aetherslate_slab"
+    }
+  },
+  "result": {
+    "item": "aethersteel:chiseled_aetherslate",
+    "count": 1
+  }
+}

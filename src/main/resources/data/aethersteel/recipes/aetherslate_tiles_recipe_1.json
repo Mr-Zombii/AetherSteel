@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "aethersteel:aetherslate_bricks"
+    }
+  },
+  "result": {
+    "item": "aethersteel:aetherslate_tiles",
+    "count": 4
+  }
+}

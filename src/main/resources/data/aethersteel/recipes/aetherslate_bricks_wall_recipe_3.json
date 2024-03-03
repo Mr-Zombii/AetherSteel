@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "aethersteel:polished_aetherslate"
+    }
+  },
+  "result": {
+    "item": "aethersteel:aetherslate_bricks_wall",
+    "count": 6
+  }
+}

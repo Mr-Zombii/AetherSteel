@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "aethersteel:blocks/polished_aetherslate",
+    "particle": "aethersteel:blocks/polished_aetherslate"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "aethersteel:cobbled_aetherslate"
+  },
+  "result": "aethersteel:polished_aetherslate"
+}

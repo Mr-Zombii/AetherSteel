@@ -1,0 +1,81 @@
+{
+  "display": {
+    "icon": {
+      "item": "aethersteel:aetherslate"
+    },
+    "title": {
+      "translate": "advancements.aetherslate_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.aetherslate_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "aetherslate_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aethersteel:cobbled_aetherslate"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "aethersteel:aetherslate_recipe",
+      "aethersteel:cobbled_aetherslate_slab_recipe_1",
+      "aethersteel:cobbled_aetherslate_slab_recipe_2",
+      "aethersteel:cobbled_aetherslate_stairs_recipe_1",
+      "aethersteel:cobbled_aetherslate_stairs_recipe_2",
+      "aethersteel:cobbled_aetherslate_wall_recipe_1",
+      "aethersteel:cobbled_aetherslate_wall_recipe_2",
+      "aethersteel:polished_aetherslate_recipe_1",
+      "aethersteel:polished_aetherslate_recipe_2",
+      "aethersteel:polished_aetherslate_slab_recipe_1",
+      "aethersteel:polished_aetherslate_slab_recipe_2",
+      "aethersteel:aetherslate_bricks_recipe_1",
+      "aethersteel:aetherslate_bricks_recipe_2",
+      "aethersteel:aetherslate_bricks_slab_recipe_1",
+      "aethersteel:aetherslate_bricks_slab_recipe_2",
+      "aethersteel:aetherslate_bricks_slab_recipe_3",
+      "aethersteel:aetherslate_bricks_stairs_recipe_1",
+      "aethersteel:aetherslate_bricks_stairs_recipe_2",
+      "aethersteel:aetherslate_bricks_stairs_recipe_3",
+      "aethersteel:aetherslate_bricks_wall_recipe_1",
+      "aethersteel:aetherslate_bricks_wall_recipe_2",
+      "aethersteel:aetherslate_bricks_wall_recipe_3",
+      "aethersteel:aetherslate_bricks_wall_recipe_4",
+      "aethersteel:polished_aetherslate_stairs_recipe_1",
+      "aethersteel:polished_aetherslate_stairs_recipe_2",
+      "aethersteel:aetherslate_tiles_recipe_1",
+      "aethersteel:aetherslate_tiles_recipe_2",
+      "aethersteel:aetherslate_tiles_slab_recipe_1",
+      "aethersteel:aetherslate_tiles_slab_recipe_2",
+      "aethersteel:aetherslate_tiles_slab_recipe_3",
+      "aethersteel:aetherslate_tiles_stairs_recipe_1",
+      "aethersteel:aetherslate_tiles_stairs_recipe_2",
+      "aethersteel:aetherslate_tiles_stairs_recipe_3",
+      "aethersteel:aetherslate_tiles_slab_recipe_4",
+      "aethersteel:aetherslate_tiles_stairs_recipe_4",
+      "aethersteel:aetherslate_tiles_wall_recipe_1",
+      "aethersteel:aetherslate_tiles_wall_recipe_2",
+      "aethersteel:aetherslate_tiles_wall_recipe_3",
+      "aethersteel:aetherslate_tiles_wall_recipe_4",
+      "aethersteel:cracked_aether_slate_bricks_recipe",
+      "aethersteel:cracked_aether_slate_tiles_recipe",
+      "aethersteel:chiseled_aetherslate_recipe_1",
+      "aethersteel:chiseled_aetherslate_recipe_2"
+    ],
+    "experience": 0
+  },
+  "parent": "aethersteel:aether_debris_advancement"
+}

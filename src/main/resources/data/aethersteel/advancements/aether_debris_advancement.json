@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "aethersteel:aether_debris"
+    },
+    "title": {
+      "translate": "advancements.aether_debris_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.aether_debris_advancement.descr"
+    },
+    "background": "aethersteel:textures/screens/aethersteel_block.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "aether_debris_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aethersteel:aether_debris"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "aethersteel:aethersteel_scrap_recipe_1",
+      "aethersteel:aethersteel_scrap_recipe_2",
+      "aethersteel:aethersteel_ingot_recipe"
+    ],
+    "experience": 0
+  }
+}

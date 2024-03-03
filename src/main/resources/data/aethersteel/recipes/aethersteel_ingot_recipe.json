@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "aethersteel_ingot",
+  "pattern": [
+    "aaa",
+    "abb",
+    "bb "
+  ],
+  "key": {
+    "a": {
+      "item": "aethersteel:aethersteel_scrap"
+    },
+    "b": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "aethersteel:aethersteel_ingot",
+    "count": 1
+  }
+}

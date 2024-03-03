@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "aethersteel_ingot",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "aethersteel:aethersteel_block"
+    }
+  },
+  "result": {
+    "item": "aethersteel:aethersteel_ingot",
+    "count": 9
+  }
+}

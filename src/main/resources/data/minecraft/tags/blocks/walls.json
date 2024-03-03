@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "aethersteel:cobbled_aetherslate_wall",
+    "aethersteel:aetherslate_bricks_wall",
+    "aethersteel:aetherslate_tiles_wall",
+    "aethersteel:polished_aetherslate_wall"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "aethersteel:blocks/cobbled_aetherslate",
+    "top": "aethersteel:blocks/cobbled_aetherslate",
+    "side": "aethersteel:blocks/cobbled_aetherslate"
+  },
+  "render_type": "solid"
+}

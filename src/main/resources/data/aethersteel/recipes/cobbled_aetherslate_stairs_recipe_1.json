@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "aethersteel:cobbled_aetherslate"
+    }
+  },
+  "result": {
+    "item": "aethersteel:cobbled_aetherslate_stairs",
+    "count": 4
+  }
+}

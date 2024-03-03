@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 0.1,
+  "cookingtime": 100,
+  "ingredient": {
+    "tag": "aethersteel:aethersteel_tools"
+  },
+  "result": "aethersteel:aethersteel_nugget"
+}

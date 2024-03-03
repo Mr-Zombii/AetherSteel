@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "aethersteel:blocks/aetherslate_tiles",
+    "top": "aethersteel:blocks/aetherslate_tiles",
+    "side": "aethersteel:blocks/aetherslate_tiles"
+  },
+  "render_type": "solid"
+}

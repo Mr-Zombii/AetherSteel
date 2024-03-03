@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "aethersteel:aetherslate_tiles"
+  },
+  "result": "aethersteel:aetherslate_tiles_wall"
+}

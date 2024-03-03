@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "aethersteel:block/suspicious_aetherslate",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "aethersteel:block/suspicious_aetherslate"
+    },
+    "axis=z": {
+      "model": "aethersteel:block/suspicious_aetherslate",
+      "x": 90
+    }
+  }
+}

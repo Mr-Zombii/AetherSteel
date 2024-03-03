@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aethersteel:blocks/aethersteel_block",
+    "up": "aethersteel:blocks/aethersteel_block",
+    "north": "aethersteel:blocks/aethersteel_block",
+    "east": "aethersteel:blocks/aethersteel_block",
+    "south": "aethersteel:blocks/aethersteel_block",
+    "west": "aethersteel:blocks/aethersteel_block",
+    "particle": "aethersteel:blocks/aethersteel_block"
+  },
+  "render_type": "solid"
+}

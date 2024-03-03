@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aethersteel:blocks/suspisious_aetherslate_top",
+    "up": "aethersteel:blocks/suspisious_aetherslate_top",
+    "north": "aethersteel:blocks/suspisious_aetherslate",
+    "east": "aethersteel:blocks/suspisious_aetherslate",
+    "south": "aethersteel:blocks/suspisious_aetherslate",
+    "west": "aethersteel:blocks/suspisious_aetherslate",
+    "particle": "aethersteel:blocks/suspisious_aetherslate_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="aethersteel"
+version="5.4"
+displayName="Aethersteel"
+displayURL="https://beta.curseforge.com/minecraft/mc-mods/aethersteel"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Ross2750"
+description="Better than Netherite"
+
+[[dependencies.aethersteel]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.aethersteel]]
+    modId="farmersdelight"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.aethersteel]]
+    modId="ironbookshelves"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

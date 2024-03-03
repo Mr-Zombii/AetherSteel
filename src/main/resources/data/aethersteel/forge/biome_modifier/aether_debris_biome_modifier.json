@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": "aethersteel:aether_debris",
+  "step": "underground_ores"
+}

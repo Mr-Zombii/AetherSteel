@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aethersteel:blocks/cracked_aetherslate_bricks",
+    "up": "aethersteel:blocks/cracked_aetherslate_bricks",
+    "north": "aethersteel:blocks/cracked_aetherslate_bricks",
+    "east": "aethersteel:blocks/cracked_aetherslate_bricks",
+    "south": "aethersteel:blocks/cracked_aetherslate_bricks",
+    "west": "aethersteel:blocks/cracked_aetherslate_bricks",
+    "particle": "aethersteel:blocks/cracked_aetherslate_bricks"
+  },
+  "render_type": "solid"
+}

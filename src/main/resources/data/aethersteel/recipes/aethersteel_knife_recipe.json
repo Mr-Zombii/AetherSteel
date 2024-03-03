@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "farmersdelight:netherite_knife"
+  },
+  "addition": {
+    "item": "aethersteel:aethersteel_ingot"
+  },
+  "result": {
+    "item": "aethersteel:aethersteel_knife"
+  }
+}

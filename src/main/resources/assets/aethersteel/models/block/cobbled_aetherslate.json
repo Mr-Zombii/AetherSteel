@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aethersteel:blocks/cobbled_aetherslate",
+    "up": "aethersteel:blocks/cobbled_aetherslate",
+    "north": "aethersteel:blocks/cobbled_aetherslate",
+    "east": "aethersteel:blocks/cobbled_aetherslate",
+    "south": "aethersteel:blocks/cobbled_aetherslate",
+    "west": "aethersteel:blocks/cobbled_aetherslate",
+    "particle": "aethersteel:blocks/cobbled_aetherslate"
+  },
+  "render_type": "solid"
+}

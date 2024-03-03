@@ -1,0 +1,63 @@
+{
+  "display": {
+    "icon": {
+      "item": "aethersteel:aethersteel_ingot"
+    },
+    "title": {
+      "translate": "advancements.aethersteel_ingot_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.aethersteel_ingot_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "aethersteel_ingot_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aethersteel:aethersteel_ingot"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "aethersteel:aethersteel_pickaxe_recipe",
+      "aethersteel:aethersteel_axe_recipe",
+      "aethersteel:aethersteel_sword_recipe",
+      "aethersteel:aethersteel_shovel_recipe",
+      "aethersteel:aethersteel_hoe_recipe",
+      "aethersteel:aethersteel_shears_recipe",
+      "aethersteel:aethersteel_helmet_recipe",
+      "aethersteel:aethersteel_chestplate_recipe",
+      "aethersteel:aethersteel_leggings_recipe",
+      "aethersteel:aethersteel_boots_recipe",
+      "aethersteel:aethersteel_block_recipe",
+      "aethersteel:aethersteel_slab_recipe",
+      "aethersteel:aethersteel_stairs_recipe",
+      "aethersteel:aethersteel_door_recipe",
+      "aethersteel:aethersteel_trapdoor_recipe",
+      "aethersteel:aethersteel_button_recipe",
+      "aethersteel:aethersteel_pressure_plate_recipe",
+      "aethersteel:aethersteel_chain_recipe",
+      "aethersteel:aethersteel_nugget_recipe_1",
+      "aethersteel:aethersteel_slab_recipe_2",
+      "aethersteel:aethersteel_stairs_recipe_2",
+      "aethersteel:aethersteel_nugget_recipe_2",
+      "aethersteel:aethersteel_nugget_recipe_3",
+      "aethersteel:aethersteel_bookshelf_recipe",
+      "aethersteel:aethersteel_knife_recipe"
+    ],
+    "experience": 0
+  },
+  "parent": "aethersteel:aether_debris_advancement"
+}

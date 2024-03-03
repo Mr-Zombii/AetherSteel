@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "aethersteel:block/aethersteel_slab"
+    },
+    "type=top": {
+      "model": "aethersteel:block/aethersteel_slab_top"
+    },
+    "type=double": {
+      "model": "aethersteel:block/aethersteel_slab_full"
+    }
+  }
+}

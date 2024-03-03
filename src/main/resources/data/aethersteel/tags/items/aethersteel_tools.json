@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "aethersteel:aethersteel_armor_helmet",
+    "aethersteel:aethersteel_armor_chestplate",
+    "aethersteel:aethersteel_armor_leggings",
+    "aethersteel:aethersteel_armor_boots",
+    "aethersteel:aethersteel_pickaxe",
+    "aethersteel:aethersteel_axe",
+    "aethersteel:aethersteel_sword",
+    "aethersteel:aethersteel_shovel",
+    "aethersteel:aethersteel_hoe",
+    "aethersteel:aethersteel_knife"
+  ]
+}

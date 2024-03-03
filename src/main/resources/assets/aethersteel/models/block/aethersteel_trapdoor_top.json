@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "aethersteel:blocks/aethersteel_trapdoor",
+    "particle": "aethersteel:blocks/aethersteel_trapdoor"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "aethersteel:aethersteel_ingot"
+  },
+  "result": {
+    "item": "aethersteel:aethersteel_armor_chestplate"
+  }
+}

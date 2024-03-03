@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "aethersteel:aethersteel_nugget"
+    },
+    "b": {
+      "item": "aethersteel:aethersteel_ingot"
+    }
+  },
+  "result": {
+    "item": "aethersteel:aethersteel_chain",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "aethersteel:blocks/aethersteel_block",
+    "top": "aethersteel:blocks/aethersteel_block",
+    "side": "aethersteel:blocks/aethersteel_block"
+  },
+  "render_type": "solid"
+}

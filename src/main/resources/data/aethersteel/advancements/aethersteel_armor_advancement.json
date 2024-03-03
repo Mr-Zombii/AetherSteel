@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "aethersteel:aethersteel_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.aethersteel_armor_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.aethersteel_armor_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "aethersteel_armor_advancement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aethersteel:aethersteel_helmet"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:aethersteel_chestplate"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:aethersteel_leggings"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:aethersteel_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "experience": 30
+  },
+  "parent": "aethersteel:aethersteel_ingot_advancement"
+}

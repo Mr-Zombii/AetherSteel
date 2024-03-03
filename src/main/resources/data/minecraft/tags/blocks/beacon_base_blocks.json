@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "aethersteel:aethersteel_block",
+    "minecraft:netherite_block"
+  ]
+}

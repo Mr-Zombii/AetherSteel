@@ -1,0 +1,8 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "bottom": "minecraft_background_music_disc:blocks/aethersteel_door_bottom",
+    "top": "minecraft_background_music_disc:blocks/aethersteel_door_top"
+  },
+  "render_type": "cutout_mipped"
+}

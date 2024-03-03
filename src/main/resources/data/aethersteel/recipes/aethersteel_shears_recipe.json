@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:shears"
+  },
+  "addition": {
+    "item": "aethersteel:aethersteel_ingot"
+  },
+  "result": {
+    "item": "aethersteel:aethersteel_shears"
+  }
+}

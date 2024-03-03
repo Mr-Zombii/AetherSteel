@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "aethersteel:aetherslate_bricks"
+  },
+  "result": "aethersteel:aetherslate_bricks_slab"
+}
