@@ -14,37 +14,37 @@
     "announce_to_chat": true,
     "hidden": false
   },
+  "parent": "aethersteel:aethersteel_ingot_advancement",
   "criteria": {
     "aethersteel_armor_advancement": {
       "conditions": {
         "items": [
           {
             "items": [
-              "aethersteel:aethersteel_helmet"
+              "aethersteel:aethersteel_armor_helmet"
             ]
           },
           {
             "items": [
-              "minecraft:aethersteel_chestplate"
+              "aethersteel:aethersteel_armor_chestplate"
             ]
           },
           {
             "items": [
-              "minecraft:aethersteel_leggings"
+              "aethersteel:aethersteel_armor_leggings"
             ]
           },
           {
             "items": [
-              "minecraft:aethersteel_boots"
+              "aethersteel:aethersteel_armor_boots"
             ]
           }
         ]
       },
       "trigger": "minecraft:inventory_changed"
-    }
-  },
+      }
+    },
   "rewards": {
     "experience": 30
-  },
-  "parent": "aethersteel:aethersteel_ingot_advancement"
+  }
 }
